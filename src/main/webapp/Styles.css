@@ -1,0 +1,45 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Sep 27, 2014, 1:34:36 PM
+    Author     : Administrator
+*/
+
+
+
+
+nav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #111;
+}
+
+li {
+    float: left;
+    list-style-type: none;
+    
+}
+/* Allowing List to be coloured when hovered across */
+li a:hover {
+    background-color: #131;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: left;
+    padding: 14px 16px;
+    text-decoration: none;
+    
+}
+
+
+img.center {
+    display: block;
+    margin: 0 auto;
+}
